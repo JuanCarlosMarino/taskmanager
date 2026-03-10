@@ -1,1 +1,1 @@
-print("Este es el archivo principal de mi aplicativo")
+print("Este es el archivo principal 😃")
