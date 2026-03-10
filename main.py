@@ -3,3 +3,4 @@ from funciones import sumar
 
 print("Este es el archivo principal 😃")
 mostrar_separador()
+print("Hola a todos")
